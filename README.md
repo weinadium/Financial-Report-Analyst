@@ -17,8 +17,8 @@
 ## Key Features (核心功能)
 
 ### 1. 智能向量知识库 (RAG Knowledge Base)
-- [x] **批次化处理 (Batch Processing)**: 实现了自定义的分批向量化算法，解决了 API 调用限制 (Error 1210/1214) 问题，支持长文档稳定处理。
-- [x] **数据清洗 (Data Cleaning)**: 内置强力清洗逻辑，自动过滤 PDF 中的乱码与无效空白字符。
+-  **批次化处理 (Batch Processing)**: 实现了自定义的分批向量化算法，解决了 API 调用限制 (Error 1210/1214) 问题，支持长文档稳定处理。
+-  **数据清洗 (Data Cleaning)**: 内置强力清洗逻辑，自动过滤 PDF 中的乱码与无效空白字符。
 
 ### 2. 自动化研报分析 (Automated Analysis) 
 -  **盈利预测提取**: 自动识别并结构化输出未来的营收与净利润预测（Markdown 表格）。
