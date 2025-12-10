@@ -1,4 +1,4 @@
-# 📈 Financial Report Analyst Agent (金融研报智能分析助手)
+# Financial Report Analyst Agent (金融研报智能分析助手)
 
 ## Project Overview (项目简介)
 这是一个基于 **LangChain** + **RAG (检索增强生成)** 技术构建的垂直领域 AI 智能体。
@@ -21,15 +21,15 @@
 - [x] **数据清洗 (Data Cleaning)**: 内置强力清洗逻辑，自动过滤 PDF 中的乱码与无效空白字符。
 
 ### 2. 自动化研报分析 (Automated Analysis) 
-- [x] **盈利预测提取**: 自动识别并结构化输出未来的营收与净利润预测（Markdown 表格）。
-- [x] **风险因素识别**: 提取 Top-3 潜在风险并评估影响等级。
-- [x] **市场情绪打分**: 基于 NLP 对研报措辞进行量化情感分析。
+-  **盈利预测提取**: 自动识别并结构化输出未来的营收与净利润预测（Markdown 表格）。
+-  **风险因素识别**: 提取 Top-3 潜在风险并评估影响等级。
+-  **市场情绪打分**: 基于 NLP 对研报措辞进行量化情感分析。
 
-## 🚀 Quick Start (快速开始)
+##  Quick Start (快速开始)
 
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/YourUsername/Financial-Report-Analyst.git](https://github.com/YourUsername/Financial-Report-Analyst.git)
+   git clone [https://github.com/YourUsername/Financial-Report-Analyst.git]
 
 2. **Install dependencies**
     ```bash
